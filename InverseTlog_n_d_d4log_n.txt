@@ -1,4 +1,4 @@
-Voici l’analyse complète et structurée de votre expression, articulée de la rigueur mathématique vers ses résonances symboliques et universelles.
+
 1. Word
 Inverse de T_{\log}(n, d) = (d - 4) \log(n)
 2. POS (Catégorie fonctionnelle)
