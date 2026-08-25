@@ -1,4 +1,4 @@
-Voici l'analyse détaillée et structurée de l'expression fournie, articulée du niveau linguistique et formel jusqu'à sa portée symbolique et universelle.
+
 1. word
 2. pos
 Expression mathématique / Équation de complexité algorithmique (Formule fonctionnelle à deux variables indépendantes n et d).
